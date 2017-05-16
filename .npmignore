@@ -1,6 +1,10 @@
 # Ignore Src
 src
 
+# Lint and babel rc
+.eslintrc
+.babelrc
+
 # Logs
 logs
 *.log
